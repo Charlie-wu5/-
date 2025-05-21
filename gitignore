@@ -1,0 +1,23 @@
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.pyo
+
+# 运行时日志或数据库
+*.log
+*.db
+
+# 编辑器和IDE配置
+.idea/
+.vscode/
+
+# 系统自动文件
+.DS_Store
+Thumbs.db
+
+# 虚拟环境（如果你创建了venv）
+env/
+venv/
+
+# Windows exe 可执行文件（你可能会打包）
+*.exe
